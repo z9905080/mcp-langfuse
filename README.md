@@ -4,6 +4,10 @@
 
 A Model Context Protocol (MCP) server implementation for integrating AI assistants with Langfuse workspaces.
 
+<a href="https://glama.ai/mcp/servers/@z9905080/mcp-langfuse">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@z9905080/mcp-langfuse/badge" alt="Server for langfuse MCP server" />
+</a>
+
 ## Overview
 
 This package provides an MCP server that enables AI assistants to interact with Langfuse workspaces. It allows AI models to:
